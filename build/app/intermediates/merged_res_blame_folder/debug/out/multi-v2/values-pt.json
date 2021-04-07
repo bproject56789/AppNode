@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sahili\\Pictures\\ylc_flutter_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sahili\\.gradle\\caches\\transforms-2\\files-2.1\\a39bd69dbdc35c2b8c3ca5754e8777a9\\core-1.1.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "486",
+                        "endColumns": "100",
+                        "endOffsets": "582"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sahili\\.gradle\\caches\\transforms-2\\files-2.1\\31eae2fb68e50d2b36e8b8ecc774beaa\\browser-1.2.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,104",
+                        "endOffsets": "165,264,376,481"
+                    }
+                }
+            ]
+        }
+    ]
+}

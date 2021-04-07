@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048058683082",
+    "project_id": "ylc-app-ac883",
+    "storage_bucket": "ylc-app-ac883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048058683082:android:59e9334896badee7891e33",
+        "android_client_info": {
+          "package_name": "com.example.ylc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048058683082-0qbk398jkdpt7nbdlaa26abu1dnld9u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ylc",
+            "certificate_hash": "1ee99d3c5b5be20f27553b1efc2c922158f5adec"
+          }
+        },
+        {
+          "client_id": "1048058683082-159kncf4aieal5uod0fpqnnmjaj4h0pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGg8adDKLAye5odAmmyNsEOnuq7KGdJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048058683082-159kncf4aieal5uod0fpqnnmjaj4h0pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
